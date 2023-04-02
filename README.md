@@ -1,6 +1,9 @@
 # IA-Unity
+
 Versão: 1.0
+
 Status do Projeto: ✔️ Concluído 
+
 Tópicos
 🔹 Descrição do projeto
 
@@ -30,10 +33,13 @@ Tópicos
 
 ...
 
+
 Descrição do projeto
+
 Cenas com diversos exemplos de como se usar inteligência artificial na unity 3d, com uma cena bônus de gameplay de um mini game de futebol.
 
 Funcionalidades ⚙️
+
 ✔️ Inteligência Artificial com cubos;
 
 ✔️ Mini game de futebol com o objetivo de fazer um gol passando pelos defensores
@@ -42,9 +48,11 @@ Distribuição
 https://github.com/MAUAK/IA-Unity
 
 Pré-requisitos ⚠️
+
 Computador com Windows;
 
 Como rodar a aplicação:
+
 O usúario deverá abrir a unity e selecionar umas das cenas que estão na pasta (scene).
 O ex1 é uma inteligência artificial que faz com que o cubo vá de um ponto para outro.
 O ex2 é basicamente tem a mesma finalidade do primeiro porém com dois cubos indo para o objetivo.
@@ -68,12 +76,13 @@ Resolvendo Problemas
 Recursos de inseridos 🧰
 
 
-
 Desenvolvedores/Contribuintes:
+
 Kauam Silva Batista
 
 
 Licença
 The MIT License (MIT)
+
 
 Copyright ©️ 2023 - IA_Unity
