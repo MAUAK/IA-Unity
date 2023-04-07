@@ -71,6 +71,9 @@ Linguagens, dependencias e libs utilizadas 📚
 Unity Engine
 
 
+Link do vídeo: https://youtu.be/TXbTJbh4Rtw
+
+
 Resolvendo Problemas
 
 
